@@ -1,69 +1,112 @@
 # Hi there! 👋
 
-Welcome to my GitHub! I’m a **Geospatial AI Specialist**, **Data Scientist**, and **AI/ML Enthusiast** working remotely with **University of Oxford's scientists** on AI and **Machine Learning** research. My focus is on **environmental sustainability** and **healthcare solutions**, using data-driven technologies to tackle real-world problems.
+I’m **Hafiz Muhammad Abubakar**, a **Geospatial AI Specialist**, **Data Scientist**, and **AI/ML Enthusiast** working remotely with **University of Oxford's scientists** on AI and **Machine Learning** research. My focus is on **environmental sustainability** and **healthcare solutions**, leveraging data-driven technologies to tackle real-world problems.
 
 ---
 
-## 🚀 **What I’m Currently Working On**
+## 🚀 **Currently Working On**
 
-- **AI/ML research** on **environmental sustainability** and **healthcare**, collaborating with **Oxford scientists**.
-- Developing **real-time environmental monitoring systems** and optimizing **AI models** for **healthcare data analysis**.
+### **Remote Collaboration with University of Oxford**:
+- **Position**: Collaborating remotely with **scientists at the University of Oxford**.
+- **Focus**: Research in **AI, Machine Learning**, and **Geospatial Data Science** with applications in **environmental sustainability** and **healthcare**.
+- **Projects**: Working on **real-time environmental monitoring** and **AI-driven healthcare solutions** using **cloud computing** and **data science** methods.
+
+### **Lab Instructor at Beaconhouse National University**:
+- **Role**: **Lab Instructor** at **Beaconhouse National University**.
+- **Subject Areas**: Teaching and mentoring students in **cloud computing**, **AI/ML**, **data science**, and **DevOps**.
+- **Focus**: Preparing students for the application of **AI** in real-world scenarios, especially in **environmental monitoring** and **healthcare data analysis**.
+
+### **Working on Environmental AI Projects**:
+- **AI Models**: Developing **machine learning models** for **real-time environmental data analysis**.
+- **Cloud Solutions**: Implementing **cost-efficient cloud infrastructure** for large-scale environmental monitoring and **reporting systems**.
+- **Server Algorithms**: Designing **scalable server algorithms** to improve **data processing efficiency** and **reduce operational costs**.
+
+### **DevOps and Cloud Infrastructure**:
+- **DevOps**: Managing and optimizing **DevOps pipelines** to streamline the deployment of **AI-driven applications**.
+- **Server Management**: Implementing **cost-efficient server algorithms** for **high-performance AI models**.
+- **Focus Areas**: Optimization of cloud systems to enhance **data handling** and improve **resource management** for large-scale projects.
+
+### **AI & ML for Healthcare**:
+- **Healthcare Projects**: Collaborating on AI-driven solutions to improve **healthcare monitoring systems** through predictive analytics.
+- **Data Science Applications**: Leveraging **data science** for **healthcare system optimization**, including **automated reporting systems** and **real-time diagnostics**.
 
 ---
 
 ## 💡 **Looking to Collaborate On**
-
 - **AI**, **ML**, and **Geospatial Data Science** projects focused on **climate science**, **healthcare**, and **environmental monitoring**.
 - **Cloud computing**, **DevOps**, and **cost-efficient algorithms** for **server management** and **data reporting systems**.
 
 ---
 
 ## 🔍 **Seeking Help With**
-
 - Optimizing **real-time environmental monitoring** and **server-based algorithms** for handling large datasets.
-- Advanced **cloud architecture** and **automated reporting systems**.
+- **Advanced cloud architecture** and **automated reporting systems**.
 
 ---
 
 ## 📚 **Currently Learning**
-
-- Deepening my knowledge in **cloud computing**, **DevOps**, and **AI-driven dashboards** for **environmental reporting**.
-- Working on **scalable server algorithms** and **data processing optimizations**.
+- **Cloud computing**, **DevOps**, and **AI-driven dashboards** for **environmental reporting**.
+- **Scalable server algorithms** and **data processing optimizations**.
 
 ---
 
 ## 🗣️ **Feel Free to Ask Me About**
-
 - **Geospatial AI**, **environmental data analysis**, and **real-time predictions** in **climate science** and **healthcare**.
 - **Cost-efficient cloud solutions**, **data reporting strategies**, and **real-time dashboard development**.
 
 ---
 
 ## ⚡ **Fun Fact**
-
-- I love **mentoring students** in **data science** and **cloud computing**.
-- Outside of work, I enjoy **music production** and **poetry writing**, always exploring creative ways to apply **AI** in different fields.
+- I enjoy **mentoring students** in **data science** and **cloud computing**.
+- Outside of work, I’m passionate about **music production** and **poetry writing**—exploring creative ways to apply **AI** in different fields.
 
 ---
 
 ## 📝 **Publications**
+1. **["Mapping Air Pollution Sources with Sequential Transformer Chaining: A Case Study in South Asia"](https://www.climatechange.ai/papers/neurips2024/6)**  
+   *Published in NEURIPSw 2024*  
+   - Focuses on using **Sequential Transformer Chaining** to map **air pollution** sources in **South Asia** using machine learning models.
 
-1. **"Title of your publication"**  
-   *Published in [Journal Name]*  
-   - Brief description of your publication and what it covers.
+2. **["2022 Flood Impact in Pakistan: Remote Sensing Assessment of Agricultural and Urban Damage"](https://ojs.aaai.org/index.php/AAAI-SS/article/view/31824)**  
+   *Published in AAAI Symposium 2024*  
+   - Provides a **remote sensing assessment** of the **flood impact** on **agriculture** and **urban areas** in **Pakistan**.
 
-2. **"Another Publication Title"**  
-   *Published in [Conference/Journal Name]*  
-   - Summary of the paper, focus, and key outcomes.
+3. **["Data-Driven Approach to Assess and Identify Gaps in Healthcare Set-Up in South Asia"](https://arxiv.org/abs/2409.14194)**  
+   *Published in ICONIP 2024*  
+   - A **data-driven approach** to analyze gaps in the **healthcare infrastructure** in **South Asia**.
 
-3. **"Geospatial AI and Healthcare Applications"**  
-   *Published in [Specific Journal or Conference Name]*  
-   - Discusses the application of **Geospatial AI** to **healthcare solutions**, aiming to enhance diagnostic tools with **real-time environmental data**.
+4. **["WasteSort-AI: Hybrid Deep Learning Pipeline for the Classification of Recyclable Materials"](https://2025.ieeeigarss.org/view_paper.php?PaperNum=4690&SessionID=1321)**  
+   *Published in IGARSS 2025*  
+   - Proposes a **hybrid deep learning pipeline** for classifying recyclable materials, contributing to **waste management** and **sustainability** efforts.
+
+---
+
+## 🌍 **Projects & Applications**
+
+1. **[AabPashi System](https://dashboard.aabpashi.com/en)**  
+   - Collaborated with the **Punjab Irrigation Department** to develop a **smart irrigation** platform, optimizing **water use** efficiency for farmers.
+
+2. **[Integrated Global Burden of Disease and Earth Observation](https://ibdem.vercel.app/)**  
+   - A system that integrates **disease burden** and **environmental monitoring** to aid policymakers and researchers in making data-driven decisions.
+
+3. **[BNU AQI Dashboard](https://bnu-aqi.vercel.app/)**  
+   - Developed a dashboard to **visualize air quality index (AQI)** data, enabling users to track **pollution levels** and make informed decisions.
+
+4. **[FMCSA Sales Data Provider Carrier Filter Pro](https://carrier-data-cloud.vercel.app/)**  
+   - Developed an application to visualize **FMCSA sales data** and filter carrier information to improve **logistics decision-making**.
+
+5. **[GeoInsight AI](https://phioxfordv2.vercel.app/)**  
+   - Built a **geospatial data visualization** platform enabling users to **upload** and **analyze** datasets using **AI-powered recommendations**.
+
+6. **[Crop Classification](https://gabubakar757.users.earthengine.app/view/cropclassification)**  
+   - Created a system to classify **crop health** using **remote sensing** and **geospatial data**.
 
 ---
 
 ### **Contact Me**
-Feel free to connect with me if you're interested in collaborating on projects or have questions about AI, ML, cloud computing, or environmental data science!
+Feel free to connect with me if you're interested in collaborating on projects or have questions about **AI**, **ML**, **cloud computing**, or **environmental data science**!
+
+---
 
 
 

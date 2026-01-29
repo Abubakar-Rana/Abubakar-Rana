@@ -1,67 +1,7 @@
 # Hi there! 👋
 
 I’m **Hafiz Muhammad Abubakar**, a **Geospatial AI Specialist**, **Data Scientist**, and **AI/ML Enthusiast** working remotely with **University of Oxford's scientists** on AI and **Machine Learning** research. My focus is on **environmental sustainability** and **healthcare solutions**, leveraging data-driven technologies to tackle real-world problems.
-
 ---
-
-## 🚀 **Currently Working On**
-
-### **Remote Collaboration with University of Oxford**:
-- **Position**: Collaborating remotely with **scientists at the University of Oxford**.
-- **Focus**: Research in **AI, Machine Learning**, and **Geospatial Data Science** with applications in **environmental sustainability** and **healthcare**.
-- **Projects**: Working on **real-time environmental monitoring** and **AI-driven healthcare solutions** using **cloud computing** and **data science** methods.
-
-### **Lab Instructor at Beaconhouse National University**:
-- **Role**: **Lab Instructor** at **Beaconhouse National University**.
-- **Subject Areas**: Teaching and mentoring students in **cloud computing**, **AI/ML**, **data science**, and **DevOps**.
-- **Focus**: Preparing students for the application of **AI** in real-world scenarios, especially in **environmental monitoring** and **healthcare data analysis**.
-
-### **Working on Environmental AI Projects**:
-- **AI Models**: Developing **machine learning models** for **real-time environmental data analysis**.
-- **Cloud Solutions**: Implementing **cost-efficient cloud infrastructure** for large-scale environmental monitoring and **reporting systems**.
-- **Server Algorithms**: Designing **scalable server algorithms** to improve **data processing efficiency** and **reduce operational costs**.
-
-### **DevOps and Cloud Infrastructure**:
-- **DevOps**: Managing and optimizing **DevOps pipelines** to streamline the deployment of **AI-driven applications**.
-- **Server Management**: Implementing **cost-efficient server algorithms** for **high-performance AI models**.
-- **Focus Areas**: Optimization of cloud systems to enhance **data handling** and improve **resource management** for large-scale projects.
-
-### **AI & ML for Healthcare**:
-- **Healthcare Projects**: Collaborating on AI-driven solutions to improve **healthcare monitoring systems** through predictive analytics.
-- **Data Science Applications**: Leveraging **data science** for **healthcare system optimization**, including **automated reporting systems** and **real-time diagnostics**.
-
----
-
-## 💡 **Looking to Collaborate On**
-- **AI**, **ML**, and **Geospatial Data Science** projects focused on **climate science**, **healthcare**, and **environmental monitoring**.
-- **Cloud computing**, **DevOps**, and **cost-efficient algorithms** for **server management** and **data reporting systems**.
-
----
-
-## 🔍 **Seeking Help With**
-- Optimizing **real-time environmental monitoring** and **server-based algorithms** for handling large datasets.
-- **Advanced cloud architecture** and **automated reporting systems**.
-
----
-
-## 📚 **Currently Learning**
-- **Cloud computing**, **DevOps**, and **AI-driven dashboards** for **environmental reporting**.
-- **Scalable server algorithms** and **data processing optimizations**.
-
----
-
-## 🗣️ **Feel Free to Ask Me About**
-- **Geospatial AI**, **environmental data analysis**, and **real-time predictions** in **climate science** and **healthcare**.
-- **Cost-efficient cloud solutions**, **data reporting strategies**, and **real-time dashboard development**.
-
----
-
-## ⚡ **Fun Fact**
-- I enjoy **mentoring students** in **data science** and **cloud computing**.
-- Outside of work, I’m passionate about **music production** and **poetry writing**—exploring creative ways to apply **AI** in different fields.
-
----
-
 ## 📝 **Publications**
 1. **["Mapping Air Pollution Sources with Sequential Transformer Chaining: A Case Study in South Asia"](https://www.climatechange.ai/papers/neurips2024/6)**  
    *Published in NEURIPSw 2024*  
@@ -107,8 +47,6 @@ I’m **Hafiz Muhammad Abubakar**, a **Geospatial AI Specialist**, **Data Scient
 Feel free to connect with me if you're interested in collaborating on projects or have questions about **AI**, **ML**, **cloud computing**, or **environmental data science**!
 
 ---
-
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abubakar_dotcom) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiz-muhammad-abubakar-49a883284/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gabubakar757@gmail.com) 
